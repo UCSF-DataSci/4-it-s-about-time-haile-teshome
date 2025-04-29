@@ -31,3 +31,6 @@ notebook>=6.4.0
 # Optional: Deep learning packages (if needed for advanced analysis)
 # tensorflow>=2.7.0
 # keras>=2.7.0
+
+#Update python package
+python>=3.7
