@@ -33,4 +33,4 @@ notebook>=6.4.0
 # keras>=2.7.0
 
 #Update python package
-python>=3.7
+python=3.7
